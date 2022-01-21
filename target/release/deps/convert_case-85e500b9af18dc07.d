@@ -1,0 +1,11 @@
+/Users/prince/github/maxcell/learn-napi/target/release/deps/convert_case-85e500b9af18dc07.rmeta: /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/prince/github/maxcell/learn-napi/target/release/deps/libconvert_case-85e500b9af18dc07.rlib: /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/prince/github/maxcell/learn-napi/target/release/deps/convert_case-85e500b9af18dc07.d: /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs /Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs
+
+/Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/lib.rs:
+/Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/case.rs:
+/Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/converter.rs:
+/Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/pattern.rs:
+/Users/prince/.cargo/registry/src/github.com-1ecc6299db9ec823/convert_case-0.5.0/src/segmentation.rs:
